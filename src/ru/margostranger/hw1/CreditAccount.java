@@ -1,4 +1,8 @@
-/* - Кредитный счет (CreditAccount)
+package ru.margostranger.hw1;
+
+import ru.margostranger.hw1.Account;
+
+/* - Кредитный счет (ru.margostranger.hw1.CreditAccount)
         * Особенность: на каждое снятие нужно наложить комиссию в размере 1% от суммы снятия.
         * То есть, если снимаем 100 у.е., то снять нужно 101.
 */
